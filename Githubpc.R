@@ -31,6 +31,10 @@ coronavirus = coronavirus %>%
 
 View(coronavirus)
 
+
+
+###Agregar Nota
+
 ###Análisis
 
 str(coronavirus)
